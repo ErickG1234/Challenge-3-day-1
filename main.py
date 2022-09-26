@@ -57,20 +57,20 @@ print(len(letter3.split()))
 # 3. What are the first and last letters of the text? Here, we will clearly use indexing.
 # enter code here, don't forget to comment your ideas so you dont forget
 # Notes "It's great to work with computers. They don't argue, they remember everything and they don't drink your beer"
-first_letter = (paragraph1[:1:])
-print(first_letter)
-last_letter = (paragraph1[-2:-3:-1])
-print(last_letter)
+# first_letter = (paragraph1[:1:])
+# print(first_letter)
+# last_letter = (paragraph1[-2:-3:-1])
+# print(last_letter)
 
-first_letter2 = (paragraph2[:1:])
-print(first_letter2)
-last_letter2 = (paragraph2[-2:-3:-1])
-print(last_letter2)
+# first_letter2 = (paragraph2[:1:])
+# print(first_letter2)
+# last_letter2 = (paragraph2[-2:-3:-1])
+# print(last_letter2)
 
-first_letter3 = (paragraph3[:1:])
-print(first_letter3)
-last_letter3 = (paragraph3[-2:-3:-1])
-print(last_letter3)
+# first_letter3 = (paragraph3[:1:])
+# print(first_letter3)
+# last_letter3 = (paragraph3[-2:-3:-1])
+# print(last_letter3)
 
 
 
